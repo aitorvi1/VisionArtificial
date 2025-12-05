@@ -1,9 +1,9 @@
 # Plan de práctica en Visión Artificial (versión mejorada)
 
 ## Bloque 0: Entorno y herramientas
-- [ ] Configurar entorno (Python 3.11+, `pip`, `venv`, Git, VS Code/PyCharm).
-- [ ] Instalar dependencias base (`opencv-python`, `numpy`, `matplotlib`, `scikit-image`, `jupyter`).
-- [ ] Estructura de proyecto (src/, notebooks/, data/raw–processed/, outputs/).
+- [x] Configurar entorno (Python 3.11+, `pip`, `venv`, Git, VS Code/PyCharm).
+- [x] Instalar dependencias base (`opencv-python`, `numpy`, `matplotlib`, `scikit-image`, `jupyter`).
+- [x] Crear estructura de carpetas (src/, notebooks/, data/raw–processed/, outputs/).
 - [ ] Preparar dataset de prueba pequeño (imágenes + vídeos).
 
 ## Bloque 0.5: Gestión de datos y etiquetado
